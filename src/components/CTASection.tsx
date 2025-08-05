@@ -3,11 +3,11 @@ import { MessageCircle, MapPin, Clock } from "lucide-react";
 
 const CTASection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/919876543210", "_blank");
+    window.open("https://wa.link/pnzr89"_blank");
   };
 
   const handleCallClick = () => {
-    window.open("tel:+919876543210", "_self");
+    window.open("tel:+918638983093", "_self");
   };
 
   return (
@@ -68,7 +68,7 @@ const CTASection = () => {
               Special Offer for New Students
             </h3>
             <p className="body-md text-muted-foreground mb-6">
-              Book your room this month and get <span className="font-semibold text-primary">one week accommodation free</span>! 
+              Book your room this month<span className="font-semibold text-primary"> free</span>! 
               Perfect for trying out our services before committing long-term.
             </p>
             
