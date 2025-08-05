@@ -68,7 +68,7 @@ const CTASection = () => {
               Special Offer for New Students
             </h3>
             <p className="body-md text-muted-foreground mb-6">
-              Book your room this month<span className="font-semibold text-primary"> free</span>! 
+              Book your room this month! 
               Perfect for trying out our services before committing long-term.
             </p>
             
